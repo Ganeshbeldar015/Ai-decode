@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.markdown-body pre {
+    background-color: #0c024c;
+    padding: 0.75rem;
+    border-radius: 0.5rem;
+    overflow-x: visible     ;
+    margin-bottom: 1rem;
+  }
+  
+  .markdown-body code {
+    color: #74d5ff;
+    font-family: monospace;
+  }
+  .mt-2 {}
+
+.mt-2.codeblcok {
+    width: 72%;
+    line-height: 150%;
+}
+.mt-2.codeblock {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2em;
+}
+
+.mt-2.codeblock pre {
+    width: 100%;
+}
+pre {
+    white-space: break-spaces;
+}
