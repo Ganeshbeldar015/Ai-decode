@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="./image.png" alt="Decode Logo" width="500" />
+  <img src="./image.jpg" alt="Decode Logo" width="500" />
 </p>
 
 <p align="center">
